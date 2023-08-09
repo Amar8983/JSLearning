@@ -18,8 +18,5 @@ let professor = {
     },
     certificates : ["Hacker Rank particiation","Certificate in IFE course","Certification in Advance Programming"]
 }
-professor.degrees.getDegrees();
-
- professor.totalExperiance = "14Years";
 
 console.log(professor);
